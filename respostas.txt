@@ -1,0 +1,8 @@
+1 - é um arquivo de computador ou pacote de dados enviados por um site de internet para o navegador.
+
+9 - 4 KB 
+
+13 - não é seguro O cookie é uma informação em texto limpo que fica guardada no navegador do usuário
+
+14 - Um cookie com a flag Secure só é enviado pelo navegador se a requisição for feita via HTTPS.
+     Um cookie com a flag HttpOnly não pode ser acessado via JavaScript.
